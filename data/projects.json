@@ -1,0 +1,283 @@
+[
+  {
+    "id": 1,
+    "title": "CMS Landing Page Design & Development for PeakAI",
+    "details": {
+      "about": " PeakAI needed dedicated landing pages for specific marketing campaigns while maintaining their main website in the Svelte framework. They faced challenges capturing leads effectively and managing customer data within CMS.",
+      "challenges": [
+        "The client required two landing pages designed per their Figma files for their marketing campaigns (sports and business). Additionally, they needed to set up a subdomain for the landing pages in CMS and integrate their main website with CMS to streamline lead capture and management."
+      ],
+      "solutions": [
+        "I developed two fully responsive landing pages in CMS based on the client's Figma designs. I also assisted in setting up the subdomain for the landing pages under CMS and connected their external Svelte-based website to CMS, ensuring seamless lead capture and data management."
+      ],
+      "outcome": [
+        "The landing pages are live and optimized for conversions, seamlessly integrated with CMS for lead management. The client can now efficiently track and manage leads from both their landing pages and the main website."
+      ],
+
+      "Reference":[
+        "https://landing.peakai.com/sport",
+        "https://landing.peakai.com/business"
+        
+      ],
+
+      "images":[
+         "/image/1.png",
+         "/image/2.png"
+        ]
+
+    }
+  },
+
+
+  {
+    "id": 2,
+    "title": "Responsive Contact Us Page Redesign for ClockOn",
+    "details": {
+      "about": " ClockOn needed an updated Contact Us page design that aligns with their new brand style and improves the user experience across devices.",
+      "challenges": [
+        "The client required a responsive and accessible Contact Us page developed in accordance with a specific Figma design. It needed to be visually engaging, functional, and easy for users to navigate."
+      ],
+      "solutions": [
+        " Developed a fully responsive Contact Us page, ensuring compatibility with mobile, tablet, and desktop devices. The design was meticulously implemented according to the Figma file."
+      ],
+      "outcome": [
+        "The Contact Us page is now user-friendly, visually aligned with the brand’s new look, and fully responsive. The client is satisfied with the improved design and functionality."
+      ],
+
+      "Reference":[
+        "https://www.clockon.com.au/contact"
+        
+      ],
+
+      "images":[
+        "/image/1.png",
+       "/image/contact.webp"
+
+        ]
+
+    }
+  },
+
+
+    {
+    "id": 3,
+    "title": "Dynamic Driving Locations Pages with Google Map Integration for thenextstreet.com on CMS.",
+    "details": {
+      "about": " thenextstreet.com needed a way to dynamically display multiple driving locations on a map, with detailed location-specific pages. They required an easy-to-manage system within CMS to handle content updates and edits directly from the page editor.",
+      "challenges": [
+        " The client wanted two pages: one for listing driving locations with cards that automatically populate Google Maps based on the location data, and another for the detail view of each location. They also needed the ability to edit and update the content easily via CMS’s page editor, with all designs following a provided Figma layout."
+      ],
+      "solutions": [
+        " built two dynamic pages using HubSpot CMS: a location listing page with cards that automatically add location markers on Google Maps and a detail page for each location. I created custom, fully dynamic modules that allow the client to effortlessly update locations, details, and map markers directly from the HubSpot page editor. The design was implemented precisely according to the Figma file provided by the client."
+      ],
+      "outcome": [
+        "The pages are fully functional, responsive, and user-friendly. The client can now easily manage and update location information, with map markers being automatically updated based on the card content. The design is visually aligned with the Figma specifications, offering both functionality and aesthetics."
+      ],
+
+      "Reference":[
+        "https://www.thenextstreet.com"
+        
+      ],
+
+      "images":[
+         "/image/next2.webp",
+       "/image/next.webp"
+         
+        ]
+
+    }
+  },
+
+
+
+   {
+    "id": 4,
+    "title": "Landing Page Development for VistaPaint.com on HubSpot CMS.",
+    "details": {
+      "about": "VistaPaint needed a secure, password-protected landing page to provide exclusive access to specific users. The page had to align precisely with the provided Figma designs while being easy to manage on CMS(Wordpress).",
+      "challenges": [
+        "The client required a landing page that was visually appealing, responsive, and password-protected, ensuring only authorized users could access the content. The design had to adhere strictly to Figma specifications while being easy to update on CMS."
+      ],
+      "solutions": [
+        " I developed the landing page on CMS(Wordpress), implementing the password protection functionality and ensuring that the design was pixel-perfect according to the Figma file. The page was optimized for responsiveness and cross-browser compatibility."
+      ],
+      "outcome": [
+        "The password-protected landing page is fully functional and secure, offering a seamless user experience. The design perfectly matches the Figma layout, and the page can be easily managed and updated by the VistaPaint team on CMS."
+      ],
+
+      "Reference":[
+        "https://www.vistapaint.com"
+        
+      ],
+
+      "images":[
+        "/image/next.webp",
+        "/image/vista.webp"
+         
+        ]
+
+    }
+  },
+
+
+   {
+    "id": 5,
+    "title": "Complete Website Redesign for LaMacchia Group on CMS(Wordpress) according to Figma design.",
+    "details": {
+      "about": " LaMacchia Group's website needed a redesign to enhance user experience, performance, and align with their brand’s updated design aesthetic. The old site was slow and difficult to maintain, and the client required a modern, dynamic site built on the CMS(Wordpress).",
+      "challenges": [
+        "The client needed a full redesign of their website according to Figma designs, with custom-built modules that could easily be reused across multiple pages. They also emphasized the importance of improving website speed and performance, as well as adhering to SEO best practices."
+      ],
+      "solutions": [
+        "We rebuilt LaMacchia Group's website from the ground up on CMS(Wordpress), creating custom modules tailored to their exact design and functional specifications. All modules were designed to be fully dynamic and reusable across new pages. Additionally, we followed performance optimization techniques and SEO best practices to improve the site’s overall speed and search engine rankings."
+      ],
+      "outcome": [
+        "The new LaMacchia Group website is faster, more user-friendly, and meets all performance and SEO guidelines. The custom modules allow the client to easily manage and expand their website as needed, and the design perfectly matches their updated brand aesthetic."
+      ],
+
+      "Reference":[
+        "https://www.lamacchiagroup.com"
+        
+      ],
+
+      "images":[
+        "/image/next.webp",
+        "/image/design.webp",
+        "/image/build.webp"
+         
+        ]
+
+    }
+  },
+
+
+   {
+    "id": 6,
+    "title": "Complete Website Migration from WordPress to React for EvoGym",
+    "details": {
+      "about": "EvoGym's website was built on WordPress, and they sought to migrate to  React for better integration . The project involved replicating the existing website's functionality and design while improving performance and incorporating custom modules.",
+      "challenges": [
+        "The client required a full migration of their website from WordPress to React Language, ensuring that all existing content, functionality, and design elements were preserved and enhanced. They also requested the development of custom modules to meet specific needs and improve overall site functionality."
+      ],
+      "solutions": [
+        " We successfully migrated EvoGym's website to  React, carefully transferring all content and features while ensuring compatibility with ecosystem. We developed several custom modules, including dynamic content blocks, interactive features, and custom forms tailored to the client's requirements. The website was redesigned to improve user experience and performance, adhering to modern web standards."
+      ],
+      "outcome": [
+        "The new  React website for EvoGym offers a seamless user experience, with enhanced performance . The custom modules have significantly improved site functionality, and the overall design aligns with the client's needs and expectations."
+      ],
+
+      "Reference":[
+        "https://evogyms.com"
+        
+      ],
+
+      "images":[
+        "/image/next.webp",
+        "/image/evo2.webp"
+       
+         
+        ]
+
+    }
+  },
+
+  {
+    "id": 7,
+    "title": "WCAG-Compliant One-Page Website for Design Ability Studio",
+    "details": {
+      "about": "Design Ability Studio needed a one-page website that strictly followed their Figma design while also being fully compliant with WCAG guidelines. Additionally, they required the site to perform well in terms of speed and responsiveness.",
+      "challenges": [
+        "The client required more than 10 custom and dynamic modules that matched the Figma design exactly. They also needed the website to adhere to WCAG standards for accessibility, ensuring that all users, including those with disabilities, could interact with the site easily."
+      ],
+      "solutions": [
+        " We developed a one-page website with over 10 custom and dynamic modules, all precisely matching the Figma design. The site was optimized for speed and built to meet WCAG guidelines, ensuring a fast and accessible user experience."
+      ],
+      "outcome": [
+        "The final website is fully compliant with WCAG standards and performs exceptionally well, providing an accessible and responsive experience. The design perfectly reflects the Figma layout, meeting the client's expectations and enhancing their online presence."
+      ],
+
+      "Reference":[
+        "https://designability.org.uk"
+        
+      ],
+
+      "images":[
+        "/image/next.webp",
+        "/image/dark.webp"
+       
+         
+        ]
+
+    }
+  },
+
+  {
+    "id": 8,
+    "title": "Responsive Hero Section & Navbar Optimization for ClockOn",
+    "details": {
+      "about": " ClockOn faced issues with their navigation bar that impacted user experience. The navigation was not functioning as expected, leading to difficulties in site navigation. They also needed a complete redesign of their hero section to align with new design specifications provided in Figma.",
+      "challenges": [
+        "The client required a seamless fix for their navigation bar issues and a new, fully dynamic, and responsive hero section based on the Figma design. They also asked for updates to their previous module to address functionality and responsiveness problems."
+      ],
+      "solutions": [
+        " We resolved the navigation bar issues by fixing bugs and enhancing functionality to improve user experience. For the hero section, we created a custom, dynamic module that is fully responsive and adheres to the Figma design. We also updated the existing module, ensuring it functions correctly and performs well across devices."
+      ],
+      "outcome": [
+        "The updated navigation bar and hero section now provide a smoother user experience and are fully aligned with the new design. The website is more responsive and user-friendly, meeting the client’s expectations and improving overall site performance."
+      ],
+
+      "Reference":[
+        "https://www.clockon.com.au"
+        
+      ],
+
+      "images":[
+        "/image/next.webp",
+        "/image/onclock.webp"
+       
+         
+        ]
+
+    }
+  },
+
+
+  
+  {
+    "id": 9,
+    "title": "SEO Optimization & Custom Module Development for VingApp",
+    "details": {
+      "about": "VingApp, a platform dedicated to simplifying workflows, faced significant challenges with their CMS(Wordpress) website’s SEO performance. The primary issues stemmed from underperforming modules, which not only hampered the site’s search engine ranking but also negatively impacted its overall user experience. The client required a developer-level intervention to optimize the website's technical aspects without altering their content strategy.",
+      "challenges": [
+        " Existing modules were not optimized for SEO, leading to poor performance in search engine rankings The site’s load times were affecting both user experience and SEO metrics The client needed custom modules to dynamically display content according to their evolving needs."
+      ],
+      "solutions": [
+        "Conducted a comprehensive audit of the website's existing modules and identified critical issues that were impacting SEO performance Optimized and restructured the existing modules to ensure they adhered to SEO best practices, significantly improving the site’s load times and search engine ranking.Developed custom modules tailored to VingApp’s specific needs, enabling dynamic content display that was both user-friendly and SEO-optimized.Worked closely with VingApp’s team to ensure that the implemented solutions aligned with their business objectives and enhanced their online presence."
+      ],
+      "outcome": [
+        "Our interventions led to a noticeable improvement in VingApp’s website performance, resulting in better search engine rankings, faster load times, and a more engaging user experience. The custom modules provided the flexibility VingApp needed to adapt to future requirements, setting them up for long-term success."
+      ],
+
+      "Reference":[
+        "https://www.vingapp.com"
+        
+      ],
+
+      "images":[
+        "/image/next.webp",
+        "/image/ving2.webp"
+       
+         
+        ]
+
+    }
+  }
+
+
+
+
+
+
+
+]
+
