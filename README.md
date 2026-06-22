@@ -43,9 +43,9 @@ Feel free to check out my repositories and contributions.
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your.email@example.com
+- GitHub: https://github.com/Munib937
+- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/muhammadmudasir57
+- Email: muhammadmunib937@gmail.com
 
 ---
 ⭐ If you like my work, don't forget to star my repositories!
